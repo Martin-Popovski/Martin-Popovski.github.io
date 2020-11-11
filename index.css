@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto',sans-serif;
+    padding: 0px;
+    margin: 0px;;
+}
+
+.main-wrapper {
+}
+.logo-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-image:linear-gradient(to right, #105e69, white, white, white, #105e69);
+
+}
+.logo-image {
+    width: 150px;
+    height: 150px;
+}
+
+.container-privacy {
+    padding: 20px;
+    color: #105e69;
+}
